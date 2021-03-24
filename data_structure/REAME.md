@@ -4,55 +4,53 @@
 
 
 1, 2주차 : 제네릭한 자료구조의 형태 및 기능을 구현한다
-# 데이터
+## 데이터
 : 멤버변수 Key key를 가진다
 : display 메소드를 구현한다
 
-# 배열(정적 배열 / 동적 배열)
+## 배열(정적 배열 / 동적 배열)
 : class Array를 템플릿을 사용해서 제네릭한 자료구조로 설계한다
 : class Array의 자식 class StaticArray / class DynamicArray를 설계한다
 : isEmpty / isFull / search(퀵 정렬 + 바이너리 서치) / add / delete / displayAll 메소드를 구현한다
 : 데이터 객체를 담는다
 
 3주차 : 제네릭한 기본 자료구조의 형태 및 기능을 구현한다
-# 링크드 리스트
+## 링크드 리스트
 : 형태(싱글리 링크드 리스트 / 더블리 링크드 리스트)
 : 기능(isEmpty / isFull / search / add / delete / displayAll)
 : 데이터 객체를 담는다
 
 4주차 : 제네릭한 응용 자료구조의 형태 및 기능을 구현한다1
-# 스택
+## 스택
 : 형태(배열 / 링크드 리스트)
 : 기능(push / pop / peek / isEmpty)
 
-# 큐
+## 큐
 : 형태(배열 / 링크드 리스트)
 : 기능(push / remove / peek / isEmpty)
 
 5주차 : 제네릭한 응용 자료구조의 형태 및 기능을 구현한다2
-# 트리1 : BST
+## 트리1 : BST
 : 형태(링크드 리스트)
 : 기능(isEmpty / search / add / delete / displayAll)
 
-# 트리2 : 힙 : min heap
+## 트리2 : 힙 : min heap
 : 형태(링크드 리스트)
 : 기능(isEmpty / search / add / delete / displayAll)
 
 6주차 : 제네릭한 응용 자료구조의 형태 및 기능을 구현한다3
-# 그래프
+## 그래프
 : 형태(인접 리스트(배열 / 링크드 리스트))
 : 기능(setNodes / setEdges / resetVisitStatus / dfsDisplay / dfsRDisplay / bfsDisplay)
 
 7주차 : 제네릭한 응용 자료구조의 형태 및 기능을 구현한다4 + 반복자를 구현한다
-# 해시 테이블
+## 해시 테이블
 : 형태(배열 + 링크드 리스트)
 : 기능(hashing / isEmpty / search / add / delete / displayAll)
 
-# 반복자
+## 반복자
 : 기능(begin / end / ++iter / *iter / iter[3] / iter+=2)
 
 8주차 : 폴더와 파일을 관리하는 시스템을 구현한다
 폴더 / 텍스트 파일 / 이미지 파일 / 음악 파일 / 영상 파일 관리 시스템 구현하기
 : 기능(isEmpty / isFull / search / add / delete / displayAll / copy / save / recovery)
-
-9주차 : gui를 구현한다

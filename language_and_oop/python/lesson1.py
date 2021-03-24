@@ -23,7 +23,6 @@
 # # 4. 사전 배열
 # info_of_suyeon_dict = {name: "김수연",
 #                        birth: 1999,
-#                        isSheBeautiful: True}
 # info_of_jihyeon_dict = {name: "이지현",
 #                         birth: 2000,
 #                         isSheBeautiful: False}

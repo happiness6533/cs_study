@@ -143,6 +143,7 @@
     <ClCompile Include="level2-1.cpp" />
     <ClCompile Include="level3-1.cpp" />
     <ClCompile Include="main.cpp" />
+    <ClCompile Include="단체사진찍기.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

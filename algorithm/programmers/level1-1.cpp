@@ -1,4 +1,12 @@
-#include <bits/stdc++.h> 
+#include <iostream>
+#include <string>
+#include <sstream>
+#include <cctype>
+#include <cstring>
+#include <vector>
+#include <stack>
+#include <algorithm>
+#include <set>
 using namespace std;
 
 vector<int> solution(vector<int> numbers) {

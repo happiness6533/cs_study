@@ -1,0 +1,12 @@
+﻿  level1-1.cpp
+C:\Users\happiness0110\developer\cs\algorithm\programmers\level1-1.cpp(16,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\happiness0110\developer\cs\algorithm\programmers\level1-1.cpp(17,31): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  level3-1.cpp
+C:\Users\happiness0110\developer\cs\algorithm\programmers\level3-1.cpp(15,31): warning C4305: '=': '__int64'에서 'int'(으)로 잘립니다.
+C:\Users\happiness0110\developer\cs\algorithm\programmers\level3-1.cpp(15,15): warning C4309: '=': 상수 값이 잘립니다.
+C:\Users\happiness0110\developer\cs\algorithm\programmers\level3-1.cpp(17,23): warning C4018: '<=': signed 또는 unsigned가 일치하지 않습니다.
+  main.cpp
+C:\Users\happiness0110\developer\cs\algorithm\programmers\level2-1.cpp(16,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  코드를 생성하고 있습니다...
+main.obj : error LNK2005: "int __cdecl solution(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > &)" (?solution@@YAHAAV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z)이(가) level2-1.obj에 이미 정의되어 있습니다.
+C:\Users\happiness0110\developer\cs\algorithm\programmers\Debug\programmers.exe : fatal error LNK1169: 여러 번 정의된 기호가 있습니다.

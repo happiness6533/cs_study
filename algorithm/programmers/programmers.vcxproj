@@ -139,11 +139,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="level1-1.cpp" />
-    <ClCompile Include="level2-1.cpp" />
-    <ClCompile Include="level3-1.cpp" />
-    <ClCompile Include="main.cpp" />
-    <ClCompile Include="단체사진찍기.cpp" />
+    <ClCompile Include="카카오 프렌즈 컬러링북.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
